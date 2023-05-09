@@ -16,9 +16,9 @@ Video File: F:/Anime/[ova] Ichi the Killer/ICHI_THE_KILLER/VIDEO_TS/VTS_01_1.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 5
-Active Line: 13
-Video Position: 5935
+Scroll Position: 32
+Active Line: 37
+Video Position: 9048
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,22 +40,31 @@ Dialogue: 0,0:03:03.31,0:03:05.41,Default,,0,0,0,,{Kanto Reform School}Trường
 Dialogue: 0,0:03:10.27,0:03:13.57,Default,,0,0,0,,{I remember The incident}Nhớ rồi ra là vụ đó nhỉ.
 Dialogue: 0,0:03:14.35,0:03:18.00,Default,,0,0,0,,{However, nobody even remembers\Nthe incident nowadays.}Lúc đó, báo đài nào cũng đưa tin về vụ này hết.
 Dialogue: 0,0:03:18.01,0:03:20.96,Default,,0,0,0,,{However, nobody even remembers\Nthe incident nowadays.}Còn giờ thì hầu như chẳng còn ai nhớ về nó cả.
-Dialogue: 0,0:03:21.34,0:03:25.65,Default,,0,0,0,,Also, he himself has forgotten\Nabout" the incident...
-Dialogue: 0,0:03:26.57,0:03:31.37,Default,,0,0,0,,{How' s his condition?{
-Dialogue: 0,0:03:31.41,0:03:39.41,Default,,0,0,0,,{But, he lost his memory completely so\Nhe doesn't remember anything of c“}
-Dialogue: 0,0:03:40.48,0:03:46.42,Default,,0,0,0,,He's forgotten not only the\Nincident but also his childhood.
-Dialogue: 0,0:03:47.89,0:03:52.38,Default,,0,0,0,,So you mean, he was like a\Nbaby when he came here.
-Dialogue: 0,0:03:52.79,0:03:54.73,Default,,0,0,0,,{That's right}
-Dialogue: 0,0:03:55.36,0:03:58.39,Default,,0,0,0,,{He grew up in here}
-Dialogue: 0,0:04:00.50,0:04:04.84,Default,,0,0,0,,I guess, menfally he's about 6 year's old.
-Dialogue: 0,0:04:07.84,0:04:14.94,Default,,0,0,0,,{He only enjoys doing exercise everyday}
-Dialogue: 0,0:04:14.98,0:04:17.04,Default,,0,0,0,,{That's extreme}
-Dialogue: 0,0:04:17.49,0:04:20.65,Default,,0,0,0,,{There is on another reason why\Nhe's so into these exercise}
-Dialogue: 0,0:04:21.42,0:04:25.86,Default,,0,0,0,,His menial age is six year's old...
-Dialogue: 0,0:04:30.53,0:04:36.56,Default,,0,0,0,,He reduces his sexual desire\Nby doing 'these exercises.
-Dialogue: 0,0:04:37.54,0:04:45.54,Default,,0,0,0,,{After watching some wresflmg shun on TV, he\Nstarted imiictitng Those Hoking nuwemerfis}
-Dialogue: 0,0:04:53.62,0:05:01.62,Default,,0,0,0,,We. are. hoping for your help in 'I-his moi-fer.
-Dialogue: 0,0:05:02.66,0:05:07.57,Default,,0,0,0,,“Fell, lei" me. fry 1'0 fake car-e. of him.
+Dialogue: 0,0:03:21.34,0:03:25.65,Default,,0,0,0,,{Also, he himself has forgotten\Nabout" the incident...}Cơ mà cậu ta cũng quên hết về vụ đó rồi.
+Dialogue: 0,0:03:26.57,0:03:30.04,Default,,0,0,0,,{How' s his condition?}Thế tình trạng cậu ta bây giờ thì sao rồi?
+Dialogue: 0,0:03:30.04,0:03:31.63,Default,,0,0,0,,Khá là bình thường.
+Dialogue: 0,0:03:31.63,0:03:38.30,Default,,0,0,0,,{But, he lost his memory completely so\Nhe doesn't remember anything of c“}Chỉ vì không muốn thừa nhận hành vi phạm tội,\n nên ký ức cậu ấy đã hoàn toàn bị niêm phong.
+Dialogue: 0,0:03:38.32,0:03:40.72,Default,,0,0,0,,Nói cách khác là \N"chủ nghĩa thoát ly" khỏi thực tại nhỉ.
+Dialogue: 0,0:03:40.83,0:03:44.67,Default,,0,0,0,,{He's forgotten not only the\Nincident but also his childhood.}Có vẻ là vậy thật, không chỉ riêng ký ức về vụ án,
+Dialogue: 0,0:03:44.68,0:03:47.93,Default,,0,0,0,,{He's forgotten not only the\Nincident but also his childhood.}mà cả ký ức tuổi thơ cũng bị niêm phong.
+Dialogue: 0,0:03:48.25,0:03:52.38,Default,,0,0,0,,{So you mean, he was like a\Nbaby when he came here.}Vậy khi tới đây, thì cậu ta đã ở trong \Ntrạng thái tâm lý y như một đứa bé sao?
+Dialogue: 0,0:03:52.79,0:03:54.73,Default,,0,0,0,,{That's right}Chính xác thì đúng là như vậy đấy.
+Dialogue: 0,0:03:55.71,0:03:58.81,Default,,0,0,0,,{He grew up in here}Có thể nói, cậu ta giống như là lớn lên ở đây vậy.
+Dialogue: 0,0:04:00.50,0:04:04.90,Default,,0,0,0,,{I guess, menfally he's about 6 year's old.}Cậu ta chỉ khoảng 6 tuổi thôi,\N nếu xét về mặt tinh thần.
+Dialogue: 0,0:04:08.24,0:04:12.05,Default,,0,0,0,,{He only enjoys doing exercise everyday}Tập thể dục là việc duy nhất mà cậu ta làm.
+Dialogue: 0,0:04:12.06,0:04:15.25,Default,,0,0,0,,{He only enjoys doing exercise everyday}Riêng squat thôi đã là 1000 cái mỗi ngày.
+Dialogue: 0,0:04:15.29,0:04:17.04,Default,,0,0,0,,{That's extreme}Đúng là một cách tập luyện đáng sợ.
+Dialogue: 0,0:04:17.49,0:04:20.65,Default,,0,0,0,,{There is on another reason why\Nhe's so into these exercise}Còn có một lý do khác\N khiến cậu ta tập thể dục như vậy.
+Dialogue: 0,0:04:21.80,0:04:25.08,Default,,0,0,0,,{His menial age is six year's old...}Dù tâm trí chỉ là một đứa bé 6 tuổi, nhưng cơ thể lại là người lớn.
+Dialogue: 0,0:04:25.09,0:04:27.62,Default,,0,0,0,,Nên cậu ta cũng có ham muốn tình dục.
+Dialogue: 0,0:04:27.62,0:04:30.80,Default,,0,0,0,,Nhưng cậu ta lại chẳng biết cách để nguôi nó.
+Dialogue: 0,0:04:30.81,0:04:35.76,Default,,0,0,0,,{He reduces his sexual desire\Nby doing 'these exercises.}Bằng việc chuyển động cơ thể như thế, \Ncậu ta đã vô thức giải toả ham muốn tình dục mình.
+Dialogue: 0,0:04:37.54,0:04:41.22,Default,,0,0,0,,{After watching some wresflmg shun on TV, he\Nstarted imiictitng Those Hoking nuwemerfis}Có vẻ như sau khi xem\N chương trình tv về võ thuật,
+Dialogue: 0,0:04:41.39,0:04:44.60,Default,,0,0,0,,cậu ta đã cảm thấy thích những động tác đó,
+Dialogue: 0,0:04:44.60,0:04:47.26,Default,,0,0,0,,và rồi thực hiện chúng.
+Dialogue: 0,0:04:53.62,0:04:58.26,Default,,0,0,0,,{We. are. hoping for your help in 'I-his moi-fer.}Nếu được một người bảo hộ kỳ cựu như Hanabe-san đây trông nom,
+Dialogue: 0,0:04:58.27,0:05:01.93,Default,,0,0,0,,{We. are. hoping for your help in 'I-his moi-fer.}thì chúng tôi cũng sẽ thấy an tâm hơn\N khi cho cậu ấy rời khỏi đây.
+Dialogue: 0,0:05:02.66,0:05:08.21,Default,,0,0,0,,“Fell, lei" me. fry 1'0 fake car-e. of him.
 Dialogue: 0,0:05:08.17,0:05:11.54,Default,,0,0,0,,{That's great. Thank you very much}
 Dialogue: 0,0:05:11.57,0:05:17.81,Default,,0,0,0,,Wifh your help we should\Nbe able 1-o reform him.
 Dialogue: 0,0:05:30.59,0:05:32.03,Default,,0,0,0,,{That's if!{
