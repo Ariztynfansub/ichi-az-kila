@@ -15,10 +15,10 @@ Audio File: F:/Anime/[ova] Ichi the Killer/ICHI_THE_KILLER/VIDEO_TS/VTS_01_1.mkv
 Video File: F:/Anime/[ova] Ichi the Killer/ICHI_THE_KILLER/VIDEO_TS/VTS_01_1.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 132
-Active Line: 137
-Video Position: 21688
+Video Zoom Percent: 0.750000
+Scroll Position: 159
+Active Line: 172
+Video Position: 24626
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,26 +162,43 @@ Dialogue: 0,0:11:51.87,0:11:54.67,Default,,0,0,0,,{Mr. Touche, sir. Long time no
 Dialogue: 0,0:11:54.70,0:11:56.70,Default,,0,0,0,,Không phải Tanabe-san,\N thì còn ai vào đây nữa?!
 Dialogue: 0,0:11:56.70,0:11:57.70,Default,,0,0,0,,{Son-y}Cháu xin lỗi.
 Dialogue: 0,0:12:01.24,0:12:02.69,Default,,0,0,0,,Thế đã quen với công việc chưa?
-Dialogue: 0,0:12:02.69,0:12:03.63,Default,,0,0,0,,Dạ rồi ạ! 
-Comment: 0,0:12:03.82,0:12:05.70,Default,,0,0,0,,Tay quản lý cửa hàng đúng là xấu miệng nhỉ?
-Dialogue: 0,0:12:08.42,0:12:09.32,Default,,0,0,0,,N01- af all.
-Dialogue: 0,0:12:09.36,0:12:17.36,Default,,0,0,0,,{Forgive him. He mfly\Nwants you to be better}
-Dialogue: 0,0:12:22.54,0:12:27.80,Default,,0,0,0,,{Dun“? worry about if. T. just “k2\Nto see you in perfect hzdflh}
-Dialogue: 0,0:12:28.64,0:12:30.47,Default,,0,0,0,,I'll do my besf.
-Dialogue: 0,0:12:30.51,0:12:33.38,Default,,0,0,0,,{Why don'? we have dinner together mam}
-Dialogue: 0,0:12:33.41,0:12:41.41,Default,,0,0,0,,{Sorry, sir, I. gotta go\N1'0 The doflo for 'tr-raining}
-Dialogue: 0,0:12:41.79,0:12:49.79,Default,,0,0,0,,{You have gram" pofufiiol.\NYou could be u great fighter}
-Dialogue: 0,0:12:52.87,0:12:54.53,Default,,0,0,0,,Please, Tha1"s impossible
-Dialogue: 0,0:12:54.57,0:13:00.53,Default,,0,0,0,,No, really, you can do anyfhing if you puf\Nyour mind n if. Karafe is jusf The beginning.
-Dialogue: 0,0:13:00.57,0:13:02.54,Default,,0,0,0,,Okay, I understand.
-Dialogue: 0,0:13:03.78,0:13:05.08,Default,,0,0,0,,{1 gotta go -}
-Dialogue: 0,0:13:05.48,0:13:08.04,Default,,0,0,0,,{Take core}
-Dialogue: 0,0:13:08.88,0:13:11.18,Default,,0,0,0,,Be careful...
-Dialogue: 0,0:13:12.49,0:13:14.98,Default,,0,0,0,,Explain 1'0 me.
-Dialogue: 0,0:13:19.56,0:13:21.43,Default,,0,0,0,,Wha1"s going on?
-Dialogue: 0,0:13:22.43,0:13:23.45,Default,,0,0,0,,{Nothing}
-Dialogue: 0,0:13:24.67,0:13:29.63,Default,,0,0,0,,Affer everyfhing {we{ fold you,\NThis score jusf isn'1' accepfable.
-Dialogue: 0,0:13:33.77,0:13:37.11,Default,,0,0,0,,Brofher's geffing beaf up by bullies\Nand i1"s probably affecfing his grade.
+Dialogue: 0,0:12:02.69,0:12:03.63,Default,,0,0,0,,Dạ rồi ạ!
+Dialogue: 0,0:12:03.82,0:12:05.70,Default,,0,0,0,,Tay quản lý cửa hàng chắc là ác mồm nhỉ?
+Dialogue: 0,0:12:05.94,0:12:07.62,Default,,0,0,0,,Không phải cháu \Nthường bị hắn quát mắng quá đó sao?
+Dialogue: 0,0:12:07.64,0:12:08.74,Default,,0,0,0,,Không có chuyện đó đâu ạ.{N01- af all.}
+Dialogue: 0,0:12:08.76,0:12:12.88,Default,,0,0,0,,{Forgive him. He mfly\Nwants you to be better}Gã ta cũng có ý tốt thôi mà. Vì muốn biến cháu\N trở thành một nhân viên mẫn cán,
+Dialogue: 0,0:12:12.89,0:12:15.12,Default,,0,0,0,,{Forgive him. He mfly\Nwants you to be better}nên dĩ nhiên là hắn phải hà khắc với cháu rồi.
+Dialogue: 0,0:12:15.23,0:12:16.22,Default,,0,0,0,,Tanabe-san...
+Dialogue: 0,0:12:16.77,0:12:18.83,Default,,0,0,0,,Cháu thật sự cảm ơn bác rất nhiều.
+Dialogue: 0,0:12:18.83,0:12:21.96,Default,,0,0,0,,Bác đã giúp cháu có chỗ ở rồi cả công việc nữa.
+Dialogue: 0,0:12:22.06,0:12:24.72,Default,,0,0,0,,{Dun“? worry about if. T. just “k2\Nto see you in perfect hzdflh}Đừng bận tâm, nếu cháu muốn trả ơn ta,
+Dialogue: 0,0:12:24.73,0:12:28.06,Default,,0,0,0,,{Dun“? worry about if. T. just “k2\Nto see you in perfect hzdflh}thì hay mau trở thành một người đàn ông\Ntrưởng thành là ta thấy vui lắm rồi.
+Dialogue: 0,0:12:28.07,0:12:29.52,Default,,0,0,0,,Cháu sẽ cố hết sức ạ.{I'll do my besf.}
+Dialogue: 0,0:12:29.74,0:12:32.73,Default,,0,0,0,,{Why don'? we have dinner together mam}Đúng rồi, cháu có muốn đi ăn tối cùng ta không?
+Dialogue: 0,0:12:32.80,0:12:35.62,Default,,0,0,0,,{Sorry, sir, I. gotta go\N1'0 The doflo for 'tr-raining}Cháu xin lỗi. Nhưng bây giờ \Ncháu phải qua võ đường rồi.
+Dialogue: 0,0:12:35.62,0:12:37.73,Default,,0,0,0,,Ồ, cuối cùng cháu cũng chịu đi học võ rồi à?
+Dialogue: 0,0:12:37.95,0:12:41.25,Default,,0,0,0,,Nếu tính cả hôm qua \Nthì đây mới là buổi thứ 2 cháu học võ ạ.
+Dialogue: 0,0:12:41.33,0:12:43.41,Default,,0,0,0,,{You have gram" pofufiiol.\NYou could be u great fighter}Nắng khiếu thì cháu có đủ cả.
+Dialogue: 0,0:12:43.42,0:12:47.15,Default,,0,0,0,,{You have gram" pofufiiol.\NYou could be u great fighter}Hajime-kun, nếu đi theo con đường đó\N thì không chừng cháu có thể được đấu giải đấy.
+Dialogue: 0,0:12:47.20,0:12:48.57,Default,,0,0,0,,Không thể nào.
+Dialogue: 0,0:12:48.72,0:12:51.71,Default,,0,0,0,,Kiểu như trở thành nhà vô Karate quốc tế ấy.
+Dialogue: 0,0:12:51.81,0:12:53.82,Default,,0,0,0,,{Please, Tha1"s impossible}Không đời nào!
+Dialogue: 0,0:12:53.90,0:12:56.28,Default,,0,0,0,,{No, really, you can do anyfhing if you puf\Nyour mind n if. Karafe is jusf The beginning.}Dù thế nào thì quan trọng nhất\N vẫn là phải tiếp tục cố gắng.
+Dialogue: 0,0:12:56.29,0:12:59.69,Default,,0,0,0,,{No, really, you can do anyfhing if you puf\Nyour mind n if. Karafe is jusf The beginning.}Dù là công việc hay Karate thì cháu nhất định\Ncũng phải phấn đấu hết mình đấy.
+Dialogue: 0,0:12:59.82,0:13:01.74,Default,,0,0,0,,Vâng, cháu hiểu rồi.{Okay, I understand.}
+Dialogue: 0,0:13:02.94,0:13:04.77,Default,,0,0,0,,{1 gotta go -}Vậy thì cháu đi đây ạ!
+Dialogue: 0,0:13:04.77,0:13:05.48,Default,,0,0,0,,Ừ!
+Dialogue: 0,0:13:05.64,0:13:07.65,Default,,0,0,0,,{Take core}Đi đường cẩn thận nhé!
+Dialogue: 0,0:13:08.27,0:13:09.77,Default,,0,0,0,,{Be careful...}Nhớ cẩn thận đấy.
+Dialogue: 0,0:13:11.44,0:13:13.28,Default,,0,0,0,,Giải thích rõ ràng đi nào.{Explain 1'0 me.}
+Dialogue: 0,0:13:18.78,0:13:21.20,Default,,0,0,0,,{Wha1"s going on?}Cứ im lặng thì ai mà hiểu đươc, đúng không?
+Dialogue: 0,0:13:21.28,0:13:23.24,Default,,0,0,0,,{Nothing}Lần tới con sẽ cố gắng ạ.
+Dialogue: 0,0:13:23.82,0:13:26.29,Default,,0,0,0,,{Affer everyfhing we fold you,\NThis score jusf isn'1' accepfable.}Mẹ thật sự không thể tin nổi,
+Dialogue: 0,0:13:26.30,0:13:29.29,Default,,0,0,0,,{Affer everyfhing we fold you,\NThis score jusf isn'1' accepfable.}nói cho mẹ biết đi con, \Nlàm thế nào mà điểm số lại thấp đến thế hả?
+Dialogue: 0,0:13:30.10,0:13:33.13,Default,,0,0,0,,{Brofher's geffing beaf up by bullies\Nand i1"s probably affecfing his grade.}Jiro, đừng có chơi game nữa,\N đi làm bài tập về nhà của con đi!
+Dialogue: 0,0:13:33.13,0:13:36.43,Default,,0,0,0,,Do ảnh bị bắt nạt nên điểm số\N mới thấp như vậy đấy, dám chắc luôn.
+Dialogue: 0,0:13:36.82,0:13:39.71,Default,,0,0,0,,Có thật là thế không?\N Đó là nguyên nhân sao?
+Dialogue: 0,0:13:39.71,0:13:41.10,Default,,0,0,0,,Không phải thế đâu ạ.
 Dialogue: 0,0:13:41.78,0:13:49.78,Default,,0,0,0,,Then how could you possibly\Ngef This low of a score.
 Dialogue: 0,0:13:52.93,0:13:54.76,Default,,0,0,0,,No.
 Dialogue: 0,0:13:56.10,0:13:57.93,Default,,0,0,0,,{Leave me alone!{
