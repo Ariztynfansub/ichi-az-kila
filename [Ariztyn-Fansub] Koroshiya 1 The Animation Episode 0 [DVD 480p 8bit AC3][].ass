@@ -15,10 +15,10 @@ Audio File: F:/Anime/[ova] Ichi the Killer/ICHI_THE_KILLER/VIDEO_TS/VTS_01_1.mkv
 Video File: F:/Anime/[ova] Ichi the Killer/ICHI_THE_KILLER/VIDEO_TS/VTS_01_1.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 413
-Active Line: 418
-Video Position: 57697
+Video Zoom Percent: 0.750000
+Scroll Position: 333
+Active Line: 342
+Video Position: 46694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,17 +26,25 @@ Style: Default,UVN Van,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:44.47,0:00:48.00,Default,,0,0,0,,{Oh man, I'm bleeding}Ôi trời, mình đang chảy máu ư?!
+Dialogue: 0,0:00:43.05,0:00:44.05,Default,,0,0,0,,Khỉ thật!
+Dialogue: 0,0:00:44.26,0:00:48.00,Default,,0,0,0,,{Oh man, I'm bleeding}Ôi trời, mình đang chảy máu ư?!
 Dialogue: 0,0:00:53.05,0:00:53.81,Default,,0,0,0,,Hơ?!
 Dialogue: 0,0:00:53.82,0:00:56.66,Default,,0,0,0,,{This is beaufiful!}Tuyệt vời!
+Dialogue: 0,0:01:13.12,0:01:15.01,Default,,0,0,0,,Đau quá!
 Dialogue: 0,0:01:20.41,0:01:22.20,Default,,0,0,0,,{Go kill him, Ichi!}Tốt, giết hắn đi, Ichi!
+Dialogue: 0,0:01:27.89,0:01:29.98,Default,,0,0,0,,Đừng có né nữa mà!
+Dialogue: 0,0:01:37.52,0:01:38.70,Default,,0,0,0,,Đau quá...
+Dialogue: 0,0:01:42.08,0:01:42.99,Default,,0,0,0,,Chết mất.
 Dialogue: 0,0:01:43.13,0:01:46.13,Default,,0,0,0,,{I'll fuckin' kill you!}Tao sẽ giết mày!
+Dialogue: 0,0:01:50.80,0:01:53.45,Default,,0,0,0,,Đứng lại!
+Dialogue: 0,0:01:54.62,0:01:56.43,Default,,0,0,0,,Đứng lại!
+Dialogue: 0,0:01:56.97,0:01:59.55,Default,,0,0,0,,Không đời nào!
 Dialogue: 0,0:02:04.58,0:02:08.57,Default,,0,0,0,,{\fad(80,0)}{Origind Script:\NHideo 'Iumumofo}Kịch bản gốc: Hideo Yamamoto
 Dialogue: 0,0:02:08.57,0:02:12.59,Default,,0,0,0,,{Script:\NSakichi Sato}Biên kịch: Sakichi Sato
 Dialogue: 0,0:02:12.60,0:02:16.60,Default,,0,0,0,,{Music:\NWai Takase}Âm nhạc: Wai Takase
 Dialogue: 0,0:02:16.61,0:02:20.57,Default,,0,0,0,,{Character- design:\NTsuneo Ninomiya}Thiết kế nhân vật: Tsuneo Ninomiya
 Dialogue: 0,0:02:51.94,0:02:59.64,Default,,0,0,0,,{\fad(100,0)}Koroshiya 1\NTHE ANIMATION EPISODE 0
-Dialogue: 0,0:03:03.31,0:03:05.41,Default,,0,0,0,,{Kanto Reform School}Trường Giáo dưỡng Kanto
+Dialogue: 0,0:03:03.31,0:03:06.16,Default,,0,0,0,,{Kanto Reform School}"Trường Giáo dưỡng Kanto"
 Dialogue: 0,0:03:10.27,0:03:13.57,Default,,0,0,0,,{I remember The incident}Nhớ rồi ra là vụ đó nhỉ.
 Dialogue: 0,0:03:14.35,0:03:18.00,Default,,0,0,0,,{However, nobody even remembers\Nthe incident nowadays.}Lúc đó, báo đài nào cũng đưa tin về vụ này hết.
 Dialogue: 0,0:03:18.01,0:03:20.96,Default,,0,0,0,,{However, nobody even remembers\Nthe incident nowadays.}Còn giờ thì hầu như chẳng còn ai nhớ về nó cả.
@@ -78,13 +86,13 @@ Dialogue: 0,0:05:54.09,0:05:56.04,Default,,0,0,0,,Vậy ta đi thôi nhỉ.{Lei-
 Dialogue: 0,0:05:56.27,0:05:58.29,Default,,0,0,0,,{Clean This up, man!}Nhớ dọn dẹp đấy!
 Dialogue: 0,0:05:59.63,0:06:01.78,Default,,0,0,0,,Tan học lại tiếp tục nhé!
 Dialogue: 0,0:06:01.78,0:06:04.08,Default,,0,0,0,,Nhớ đến sau khi hết giờ học đấy!
-Dialogue: 0,0:06:07.06,0:06:09.76,Default,,0,0,0,,{Are you all righf, Shiroichi?}Mày có sao không đấy, Shiroishi-kun?
+Dialogue: 0,0:06:07.06,0:06:09.76,Default,,0,0,0,,{Are you all righf, Shiroishi?}Mày có sao không đấy, Shiroishi-kun?
 Dialogue: 0,0:06:10.22,0:06:11.16,Default,,0,0,0,,Ừm...{Yes...}
 Dialogue: 0,0:06:11.38,0:06:13.22,Default,,0,0,0,,{They were formenfing you again.}Tụi nó lại bắt nạt mày nữa à?
 Dialogue: 0,0:06:13.30,0:06:15.73,Default,,0,0,0,,{Mo, mire just wresflilq}Không đâu, đó chỉ là múa võ thôi!
-Dialogue: 0,0:06:15.77,0:06:19.86,Default,,0,0,0,,{Don'? worry, Hqiime, I'm on your side.}Hajime-kun, dù gì tao cũng cùng phe với mày mà.
+Dialogue: 0,0:06:15.77,0:06:19.86,Default,,0,0,0,,{Don'? worry, Hqiime, I'm on your side.}Hajime-kun, tao là bạn của mày mà.
 Dialogue: 0,0:06:20.03,0:06:21.77,Default,,0,0,0,,{Really, i1"s n01" Thai:}Thật sao?
-Dialogue: 0,0:06:24.15,0:06:26.31,Default,,0,0,0,,{Thank anyway , Kannada}Cảm ơn cậu, Kaneda-kun...
+Dialogue: 0,0:06:24.15,0:06:25.97,Default,,0,0,0,,{Thank anyway , Kannada}Cảm ơn cậu, Kaneda-kun...
 Dialogue: 0,0:06:46.16,0:06:48.09,Default,,0,0,0,,{Please don'? do Thai-I}Không! Đừng làm thế mà!
 Dialogue: 0,0:06:48.10,0:06:50.73,Default,,0,0,0,,{Whaf The hell? You like i1' like This.}Cái con đàn bà này, không phải mày thích nó sao?
 Dialogue: 0,0:06:50.77,0:06:52.46,Default,,0,0,0,,{I'll fuckin' slap you!}Để tao tét mông mày!
@@ -98,11 +106,11 @@ Dialogue: 0,0:07:11.13,0:07:12.89,Default,,0,0,0,,{Another suicide..}Lại là t
 Dialogue: 0,0:07:12.93,0:07:14.92,Default,,0,0,0,,Do bị bắt nạt đấy.{Because of bullying.}
 Dialogue: 0,0:07:15.86,0:07:18.64,Default,,0,0,0,,{When's your mid-Term, Hqiime?}Hajime, khi nào thì con kiểm tra giữ học kỳ 1?
 Dialogue: 0,0:07:18.64,0:07:20.44,Default,,0,0,0,,Thứ hai tuần sau ạ!
-Dialogue: 0,0:07:20.44,0:07:22.52,Default,,0,0,0,,{Please sfudy hard and 921' a good grade.}Lần này ráng thi lấy điểm cao vào con nhé.
+Dialogue: 0,0:07:20.44,0:07:22.52,Default,,0,0,0,,{Please sfudy hard and 921' a good grade.}Lần này rán thi lấy điểm cao vào con nhé.
 Dialogue: 0,0:07:22.53,0:07:24.25,Default,,0,0,0,,{College enfrance exams are nexf year}Năm sau là phải thi Đại học rồi đấy.
-Dialogue: 0,0:07:24.26,0:07:25.81,Default,,0,0,0,,{College enfrance exams are nexf year}Vâng, con sẽ cố gắng.
+Dialogue: 0,0:07:24.26,0:07:25.81,Default,,0,0,0,,{College enfrance exams are nexf year}Ừm, con sẽ cố gắng.
 Dialogue: 0,0:07:26.08,0:07:30.94,Default,,0,0,0,,{Do your besf, so you'll have no r-egrefs.}Đừng đến lúc đó, lại bảo "phải chi mình học \Nchăm hơn thì tốt biết mấy" thì cũng đã muộn rồi đấy.
-Dialogue: 0,0:07:31.54,0:07:33.75,Default,,0,0,0,,Có sẽ cố gắng để không phải hối tiếc.{I'll do my besf.}
+Dialogue: 0,0:07:31.54,0:07:33.75,Default,,0,0,0,,Con sẽ cố gắng để không phải hối tiếc.{I'll do my besf.}
 Dialogue: 0,0:07:33.78,0:07:38.38,Default,,0,0,0,,{You have 1'0 Q21" good grades\Nif you want to get (IIIYVIhZPQ}Đừng chỉ cố gắng không, nếu không đạt điểm tốt \Nthì cũng chẳng tốt đâu.
 Dialogue: 0,0:07:38.42,0:07:39.48,Default,,0,0,0,,{I. know}Con hiểu rồi.
 Dialogue: 0,0:07:39.52,0:07:41.46,Default,,0,0,0,,Con có thật sự hiểu không đó?{Do you really understand?}
@@ -117,7 +125,7 @@ Dialogue: 0,0:08:07.63,0:08:09.14,Default,,0,0,0,,Con đã bảo là không có 
 Dialogue: 0,0:08:09.23,0:08:11.63,Default,,0,0,0,,{I am more like file bully.}Trái ngược lại thì con là kẻ bắt nạt ạ.
 Dialogue: 0,0:08:11.63,0:08:15.76,Default,,0,0,0,,Như vậy cũng không được, \Nlỡ con khiến ai đó bị thương thì sao hả?
 Dialogue: 0,0:08:15.76,0:08:18.67,Default,,0,0,0,,Không sao đâu. Con không bao giờ\N làm mấy việc xấu xa đến như vậy đâu ạ.
-Dialogue: 0,0:08:18.83,0:08:21.39,Default,,0,0,0,,{In order- fo survive 'this social-y, you\Ncan"I' have Thai" kind of affifude.}Dù sao thì nếu nó không có gan để bắt nạt người khác,
+Dialogue: 0,0:08:18.83,0:08:21.39,Default,,0,0,0,,{In order- fo survive 'this social-y, you\Ncan"I' have Thai" kind of affifude.}Dù sao thì nếu nó không có gan\N để bắt nạt người khác,
 Dialogue: 0,0:08:21.40,0:08:24.32,Default,,0,0,0,,{In order- fo survive 'this social-y, you\Ncan"I' have Thai" kind of affifude.}thì con nó sẽ không thể\N sống sót ngoài kia sau này đâu.
 Dialogue: 0,0:08:24.32,0:08:27.72,Default,,0,0,0,,Nhưng mà nhất định là con không được\N gây chuyện nghiêm trọng đâu đấy!
 Dialogue: 0,0:08:27.72,0:08:30.30,Default,,0,0,0,,Con biết rồi. Con sẽ cẩn thận ạ.{Don'? worry. I'll be careful.}
@@ -132,13 +140,13 @@ Dialogue: 0,0:09:14.04,0:09:15.52,Default,,0,0,0,,Nhưng, em...
 Dialogue: 0,0:09:15.52,0:09:17.02,Default,,0,0,0,,Làm đi Shiroishi!
 Dialogue: 0,0:09:17.30,0:09:19.55,Default,,0,0,0,,{If you don'? do if, we're gonna fuckin' kill you.}Mày mà không làm thì tao sẽ giết mày đấy.
 Dialogue: 0,0:09:20.36,0:09:21.46,Default,,0,0,0,,H-Hơ...
-Dialogue: 0,0:09:34.91,0:09:37.86,Default,,0,0,0,,Bây giờ thì thầy sẽ giải thích cho trò,\N nên cứ theo đó mà làm.{You know how 1'0 do 'this, righf?}
+Dialogue: 0,0:09:34.91,0:09:37.86,Default,,0,0,0,,Bây giờ thì thầy sẽ giải thích \Ncách làm cho trò, nên cứ theo đó mà làm.{You know how 1'0 do 'this, righf?}
 Dialogue: 0,0:09:43.98,0:09:45.60,Default,,0,0,0,,Nó vẫn còn sống.
 Dialogue: 0,0:09:45.60,0:09:48.93,Default,,0,0,0,,{That's right}Đúng vậy, thầy chỉ khiến nó ngủ thôi.
 Dialogue: 0,0:09:49.09,0:09:51.05,Default,,0,0,0,,{I. don't won't to do if}Em không muốn giết nó ạ.
 Dialogue: 0,0:09:51.09,0:09:54.11,Default,,0,0,0,,{Hurry up, you don'? have a choice.}Nếu trò không giết nó,\N thì sao mà ta giải phẫu nó được chứ?
 Dialogue: 0,0:09:54.85,0:09:56.68,Default,,0,0,0,,Rõ rồi chứ? Nào mau làm đi.{Hurry. 60 on.}
-Dialogue: 0,0:10:09.06,0:10:11.58,Default,,0,0,0,,{Hurry up, man, ofherwise\Nwe're{ gonna dissecf you.}Nếu mày không làm mau\Nthị mày sẽ bị giải phẫu đấy.
+Dialogue: 0,0:10:09.06,0:10:11.58,Default,,0,0,0,,{Hurry up, man, ofherwise\Nwe're{ gonna dissecf you.}Nếu mày không làm ngay\Nthị mày sẽ bị giải phẫu đấy.
 Dialogue: 0,0:10:30.92,0:10:32.54,Default,,0,0,0,,Mau giết nó đi!{Hurry up, ma"!}
 Dialogue: 0,0:10:32.54,0:10:33.12,Default,,0,0,0,,Hư!
 Dialogue: 0,0:10:33.12,0:10:33.87,Default,,0,0,0,,Hứ!
@@ -154,7 +162,7 @@ Dialogue: 0,0:11:21.66,0:11:25.21,Default,,0,0,0,,{If you made an anofher misfak
 Dialogue: 0,0:11:27.84,0:11:29.47,Default,,0,0,0,,{Son-y}Con xin lỗi.
 Dialogue: 0,0:11:30.99,0:11:32.69,Default,,0,0,0,,Hây da!
 Dialogue: 0,0:11:36.22,0:11:38.30,Default,,0,0,0,,"Cảm ơn vì bữa ăn"
-Dialogue: 0,0:11:44.84,0:11:45.95,Default,,0,0,0,,Shiroichi-kun!
+Dialogue: 0,0:11:44.84,0:11:45.95,Default,,0,0,0,,Shiroishi-kun!
 Dialogue: 0,0:11:45.95,0:11:46.46,Default,,0,0,0,,Ư-Hư!
 Dialogue: 0,0:11:46.46,0:11:49.02,Default,,0,0,0,,{Tm son-y, sir. 11' wan'? happen again}Xin lỗi! Con sẽ làm đàng hoàng ạ!
 Dialogue: 0,0:11:49.50,0:11:51.49,Default,,0,0,0,,Cháu xin lỗi gì đấy?
@@ -166,11 +174,11 @@ Dialogue: 0,0:12:02.69,0:12:03.63,Default,,0,0,0,,Dạ rồi ạ!
 Dialogue: 0,0:12:03.82,0:12:05.70,Default,,0,0,0,,Tay quản lý cửa hàng chắc là ác mồm nhỉ?
 Dialogue: 0,0:12:05.94,0:12:07.62,Default,,0,0,0,,Không phải cháu \Nthường bị hắn quát mắng quá đó sao?
 Dialogue: 0,0:12:07.64,0:12:08.74,Default,,0,0,0,,Không có chuyện đó đâu ạ.{N01- af all.}
-Dialogue: 0,0:12:08.76,0:12:12.88,Default,,0,0,0,,{Forgive him. He mfly\Nwants you to be better}Gã ta cũng có ý tốt thôi mà. Vì muốn biến cháu\N trở thành một nhân viên mẫn cán,
+Dialogue: 0,0:12:08.76,0:12:12.88,Default,,0,0,0,,{Forgive him. He mfly\Nwants you to be better}Gã ta cũng có ý tốt thôi mà. Vì hắn \Nmuốn biến cháu trở thành một nhân viên mẫn cán,
 Dialogue: 0,0:12:12.89,0:12:15.12,Default,,0,0,0,,{Forgive him. He mfly\Nwants you to be better}nên dĩ nhiên là hắn phải hà khắc với cháu rồi.
 Dialogue: 0,0:12:15.23,0:12:16.22,Default,,0,0,0,,Tanabe-san...
 Dialogue: 0,0:12:16.77,0:12:18.83,Default,,0,0,0,,Cháu thật sự cảm ơn bác rất nhiều.
-Dialogue: 0,0:12:18.83,0:12:21.96,Default,,0,0,0,,Bác đã giúp cháu có chỗ ở rồi cả công việc nữa.
+Dialogue: 0,0:12:18.83,0:12:21.96,Default,,0,0,0,,Bác đã giúp cháu có căn hộ để ở \Nrồi cả công việc nữa.
 Dialogue: 0,0:12:22.06,0:12:24.72,Default,,0,0,0,,{Dun“? worry about if. T. just “k2\Nto see you in perfect hzdflh}Đừng bận tâm, nếu cháu muốn trả ơn ta,
 Dialogue: 0,0:12:24.73,0:12:28.06,Default,,0,0,0,,{Dun“? worry about if. T. just “k2\Nto see you in perfect hzdflh}thì hay mau trở thành một người đàn ông\Ntrưởng thành là ta thấy vui lắm rồi.
 Dialogue: 0,0:12:28.07,0:12:29.52,Default,,0,0,0,,Cháu sẽ cố hết sức ạ.{I'll do my besf.}
@@ -213,27 +221,30 @@ Dialogue: 0,0:14:15.08,0:14:17.08,Default,,0,0,0,,Có phải em đang tưởng t
 Dialogue: 0,0:14:18.78,0:14:21.30,Default,,0,0,0,,{Wdd better he“: Hojinm out}Nếu ta không để tâm nhiều hơn tới Hajime thì...
 Dialogue: 0,0:14:48.36,0:14:49.29,Default,,0,0,0,,Mạnh hơn nữa!
 Dialogue: 0,0:14:49.29,0:14:50.35,Default,,0,0,0,,Đừng-
+Dialogue: 0,0:15:53.39,0:15:56.85,Default,,0,0,0,,Đồ khốn! Đồ khốn! Đồ khốn! Đồ khốn! ...
 Dialogue: 0,0:16:14.04,0:16:16.17,Default,,0,0,0,,{All The. rabbi-rs are. dead!}Lũ thỏ chết cả rồi kìa!
+Dialogue: 0,0:16:17.60,0:16:19.71,Default,,0,0,0,,Ai có thể làm chuyện này chứ?
 Dialogue: 0,0:16:23.84,0:16:24.54,Default,,0,0,0,,Hở?
 Dialogue: 0,0:16:24.54,0:16:27.46,Default,,0,0,0,,C- Cái quái gì thế này!{Whaf The hell is This?}
 Comment: 0,0:16:27.46,0:16:44.28,Default,,0,0,0,,Cứt
+Dialogue: 0,0:16:43.14,0:16:44.01,Default,,0,0,0,,Ơ...
 Dialogue: 0,0:16:44.28,0:16:45.86,Default,,0,0,0,,Để tao phụ cho.
 Dialogue: 0,0:16:45.86,0:16:48.48,Default,,0,0,0,,{Oh. Thanks.}Ơ... Cảm ơn.
 Dialogue: 0,0:16:51.17,0:16:53.84,Default,,0,0,0,,{Everybody is talking about if}Mọi người đang làm ầm cả lên ngoài kia đấy.
 Dialogue: 0,0:16:54.01,0:16:54.84,Default,,0,0,0,,{I. know}Ừm.
-Dialogue: 0,0:16:54.84,0:16:57.69,Default,,0,0,0,,Một việc tàn nhẫn như thế mà cũng làm được à?
+Dialogue: 0,0:16:54.84,0:16:57.69,Default,,0,0,0,,Một việc tàn nhẫn như thế \Nmà cũng làm được cơ đấy?
 Dialogue: 0,0:16:57.74,0:16:58.69,Default,,0,0,0,,{I. agree}Cậu nói phải.
 Dialogue: 0,0:16:58.69,0:16:59.42,Default,,0,0,0,,Ý tao là mày đấy.
 Dialogue: 0,0:16:59.42,0:16:59.98,Default,,0,0,0,,Hớ!
 Dialogue: 0,0:17:00.78,0:17:02.46,Default,,0,0,0,,{I1" was you, wasn'? if?}Tao đã thấy rồi.
 Dialogue: 0,0:17:03.39,0:17:07.10,Default,,0,0,0,,{I saw you lasf nigh? when I\Nwas wen? 1'0 fhe grocery sf ore.}Đêm hôm qua khi tao đang định\N ra cửa hàng tiện lợi, thì tao đã bắt gặp mày.
 Dialogue: 0,0:17:07.10,0:17:10.20,Default,,0,0,0,,Có linh cảm chẳng lành\N nên sau đó tao đã bám theo mày.{So I followed you.}
-Dialogue: 0,0:17:11.30,0:17:16.03,Default,,0,0,0,,{Don'? worry, I'm still on your\Nside. I won'? fell anybody.}Cứ yên tâm, tao ở phe mày mà, \Nnên tao chẳng nói cho ai cả.
+Dialogue: 0,0:17:11.30,0:17:16.03,Default,,0,0,0,,{Don'? worry, I'm still on your\Nside. I won'? fell anybody.}Cứ yên tâm, tao là bạn mày mà, \Nnên tao chẳng nói cho ai cả.
 Dialogue: 0,0:17:18.30,0:17:20.89,Default,,0,0,0,,{Let's clean 'this 'thing.}Nào tẩy hết chúng thôi.
-Dialogue: 0,0:17:21.38,0:17:23.89,Default,,0,0,0,,Cảm ơn cậu Kaneda-kun.{Thank you, Mr. Kannada.}
+Dialogue: 0,0:17:21.38,0:17:23.89,Default,,0,0,0,,Cảm ơn cậu, Kaneda-kun.{Thank you, Mr. Kannada.}
 Dialogue: 0,0:17:31.08,0:17:33.12,Default,,0,0,0,,Sao trông cứ như mày đã\N bị đe doạ thế nào ấy nhỉ?
 Dialogue: 0,0:17:33.13,0:17:34.75,Default,,0,0,0,,K-Không có chuyện đó đâu.{N01- af all.}
-Dialogue: 0,0:17:34.75,0:17:36.76,Default,,0,0,0,,Vậy thì cho tao mượn tiền đi, đừng e ngại nữa.
+Dialogue: 0,0:17:34.75,0:17:36.76,Default,,0,0,0,,Vậy thì cho tao mượn tiền đi, \Nđừng e ngại nữa.
 Dialogue: 0,0:17:37.74,0:17:38.43,Default,,0,0,0,,Ưm...
 Dialogue: 0,0:17:38.43,0:17:39.26,Default,,0,0,0,,Gì?
 Dialogue: 0,0:17:39.26,0:17:41.02,Default,,0,0,0,,{Tm just being your friend}Thế khi nào cậu trả cho tớ.{When are you gonna ref urn The money?}
@@ -241,7 +252,7 @@ Dialogue: 0,0:17:43.56,0:17:46.19,Default,,0,0,0,,Không có gì đâu. Tớ ch�
 Dialogue: 0,0:17:46.21,0:17:50.53,Default,,0,0,0,,{Don'? surprise me like Thai',\Nman. You're acfing sf range.}À, mày làm tao hết hồn đấy!\N Tao cứ tưởng là mày sẽ nói cái gì kì lạ chứ.
 Dialogue: 0,0:17:53.10,0:17:57.56,Default,,0,0,0,,{I1"s all cool, righf?}Tao vẫn sẽ luôn là đồng minh \Ncủa mày đấy, đừng có quên điều đó.
 Dialogue: 0,0:18:11.57,0:18:13.56,Default,,0,0,0,,{There you go.}Ra là mày ở đây.
-Dialogue: 0,0:18:14.52,0:18:17.94,Default,,0,0,0,,{Le1"s wresfle, Shiroichi!}Shiroichi! Đấu vật nào!
+Dialogue: 0,0:18:14.52,0:18:17.94,Default,,0,0,0,,{Le1"s wresfle, Shiroishi!}Shiroishi! Đấu vật nào!
 Dialogue: 0,0:18:28.92,0:18:32.11,Default,,0,0,0,,Ít hơn qua thế.\N Tao không cần tiền lẻ đâu.{I'I"s less 'than yesterday's.}
 Dialogue: 0,0:18:32.28,0:18:33.08,Default,,0,0,0,,Ừm...
 Dialogue: 0,0:18:33.10,0:18:35.08,Default,,0,0,0,,{I'm disappoinfed by 'this. Area'?\Nwe supposed 1'0 be a friend?}Cơ mà tiếc thật đấy.
@@ -264,7 +275,7 @@ Dialogue: 0,0:19:26.10,0:19:29.52,Default,,0,0,0,,{I1"s still beffer Than being 
 Dialogue: 0,0:19:30.10,0:19:32.77,Default,,0,0,0,,Thế thì chẳng phải chúng ta \Ncần phải thắt chặt chi tiêu lại sao?
 Dialogue: 0,0:19:32.77,0:19:35.20,Default,,0,0,0,,{We're going 'I'o curl" your allowance, Jir-o.}Jiro, tháng sau mẹ sẽ\N giảm tiền tiêu vặt của con lại.
 Dialogue: 0,0:19:35.22,0:19:37.16,Default,,0,0,0,,Hể? Không chịu đâu!{No way!}
-Dialogue: 0,0:19:37.40,0:19:40.19,Default,,0,0,0,,Không phải do con toàn mua truyện tranh đó sao?{You only use. i1" 'to buy comic books.}
+Dialogue: 0,0:19:37.40,0:19:40.19,Default,,0,0,0,,Chảng phải con toàn mua truyện tranh đó sao?{You only use. i1" 'to buy comic books.}
 Dialogue: 0,0:19:40.28,0:19:42.17,Default,,0,0,0,,Vậy thì giảm tiền của ảnh luôn đi.
 Dialogue: 0,0:19:42.48,0:19:45.17,Default,,0,0,0,,Hajme, con cũng sẽ phụ chúng ta nhé.
 Dialogue: 0,0:19:47.20,0:19:50.33,Default,,0,0,0,,Hajime, con nhất định\N phải trở thành một viên chức đấy.{You have 1'0 be a public official.}
@@ -292,7 +303,7 @@ Dialogue: 0,0:21:19.61,0:21:23.25,Default,,0,0,0,,{Even if you have 1'0 rob a ba
 Dialogue: 0,0:21:23.32,0:21:27.38,Default,,0,0,0,,Lẽ ra ngay từ đầu mày phải\N làm mọi cách để có tiền chứ.
 Dialogue: 0,0:21:27.52,0:21:29.78,Default,,0,0,0,,{I. can't do that}Lần tới tớ nhất định \Nsẽ làm mọi cách có thể mà.
 Dialogue: 0,0:21:30.40,0:21:32.25,Default,,0,0,0,,{If everyone knows Thai' you killed The\Nrabbifs, fhey'll all freak ouf, man.}Mọi người nhất định sẽ kinh ngạc lắm đây,
-Dialogue: 0,0:21:32.27,0:21:36.45,Default,,0,0,0,,{If everyone knows Thai' you killed The\Nrabbifs, fhey'll all freak ouf, man.}rằng kẻ đã giết lũ thỏ lại chính là \NShiroichi-kun, đứa chuyện bị bắt nạt.
+Dialogue: 0,0:21:32.27,0:21:36.45,Default,,0,0,0,,{If everyone knows Thai' you killed The\Nrabbifs, fhey'll all freak ouf, man.}rằng kẻ đã giết lũ thỏ lại chính là \NShiroishi-kun, đứa chuyện bị bắt nạt.
 Dialogue: 0,0:21:36.56,0:21:38.76,Default,,0,0,0,,Không biết ba mẹ mày sẽ nói sao nhỉ?
 Dialogue: 0,0:21:39.05,0:21:40.48,Default,,0,0,0,,Kaneda-kun...
 Dialogue: 0,0:21:40.48,0:21:42.73,Default,,0,0,0,,{Mr. Kannada...}Tao đi báo cho giáo viên đây.{I'm going 1'0 fell Them now.}
@@ -304,10 +315,9 @@ Dialogue: 0,0:22:06.80,0:22:07.80,Default,,0,0,0,,{I. I}Máu...
 Dialogue: 0,0:22:08.40,0:22:10.75,Default,,0,0,0,,Máu mình...
 Dialogue: 0,0:22:10.88,0:22:12.35,Default,,0,0,0,,...đang chảy!
 Dialogue: 0,0:22:12.44,0:22:14.44,Default,,0,0,0,,{11"“ stop soon}Nó sẽ sớm ngừng chảy thôi mà.
-Dialogue: 0,0:22:23.36,0:22:24.16,Default,,0,0,0,,Máu...
 Dialogue: 0,0:22:25.15,0:22:27.92,Default,,0,0,0,,Mình bị chảy máu rồi!
 Dialogue: 0,0:22:28.00,0:22:31.55,Default,,0,0,0,,Mày làm sao thế.\N Đừng có làm ầm lên đến thế chứ!
-Dialogue: 0,0:22:31.55,0:22:33.81,Default,,0,0,0,,Kaneda!
+Dialogue: 0,0:22:31.55,0:22:33.81,Default,,0,0,0,,Đồ ngu!
 Dialogue: 0,0:22:40.86,0:22:42.53,Default,,0,0,0,,Đồ ngu!
 Dialogue: 0,0:22:45.66,0:22:47.94,Default,,0,0,0,,Đồ ngu! Đồ ngu!
 Dialogue: 0,0:22:50.30,0:22:52.89,Default,,0,0,0,,Thằng khốn ngu ngốc! Xin lỗi mau!
@@ -335,7 +345,7 @@ Dialogue: 0,0:24:03.07,0:24:04.76,Default,,0,0,0,,{Be a man and fell us, Hqiime!
 Dialogue: 0,0:24:04.76,0:24:06.42,Default,,0,0,0,,- Hajime!\N- Hajime!
 Dialogue: 0,0:24:11.55,0:24:14.19,Default,,0,0,0,,Đồ ngu!
 Dialogue: 0,0:24:24.26,0:24:28.42,Default,,0,0,0,,{When you kick, lower yourself info posifion\Nand concenfrafe on your kicking. Undersfand?}Đầu tiên phải xoay người để\N vào tư thế rồi tung ra cú đá ngay lập tức, rõ rồi chứ?
-Dialogue: 0,0:24:28.53,0:24:30.44,Default,,0,0,0,,Nhất định phải dùng hết cả cơ thể đấy!
+Dialogue: 0,0:24:28.53,0:24:30.44,Default,,0,0,0,,Nhất định phải đá bằng cả cơ thể đấy!
 Dialogue: 0,0:24:30.44,0:24:31.41,Default,,0,0,0,,Rõ!
 Dialogue: 0,0:24:31.41,0:24:33.98,Default,,0,0,0,,Được! Vậy thì ta làm thử luôn nhé!
 Dialogue: 0,0:24:34.45,0:24:36.96,Default,,0,0,0,,{You, new guy, come here}Ê, nhóc người mới, lại đây!
@@ -354,13 +364,20 @@ Dialogue: 0,0:25:23.73,0:25:24.68,Default,,0,0,0,,Xin lỗi!
 Dialogue: 0,0:25:24.68,0:25:26.22,Default,,0,0,0,,Xin lỗi, seshimashita!
 Dialogue: 0,0:25:26.22,0:25:27.94,Default,,0,0,0,,Seiza, là seiza mới phải!
 Dialogue: 0,0:25:28.06,0:25:31.36,Default,,0,0,0,,{Yes, sir.}Kẻ không biết phép tắc \Nthì không có đủ tư cách để tập võ.
+Dialogue: 0,0:25:31.57,0:25:33.61,Default,,0,0,0,,Tập Seiza cho đến hết buổi nay cho ta.
+Dialogue: 0,0:25:33.61,0:25:34.42,Default,,0,0,0,,Vâng!
+Dialogue: 0,0:25:43.17,0:25:44.35,Default,,0,0,0,,Hơ...
+Dialogue: 0,0:25:46.06,0:25:46.83,Default,,0,0,0,,Hơ.
+Dialogue: 0,0:25:54.40,0:25:58.05,Default,,0,0,0,,Nhóc có biết là Seiza cũng \Ncần phải được tập nghiêm túc không hả?
+Dialogue: 0,0:25:58.09,0:25:58.72,Default,,0,0,0,,Vâng.
+Dialogue: 0,0:25:58.72,0:26:00.28,Default,,0,0,0,,Trả lời nhỏ quá!
 Dialogue: 0,0:26:00.28,0:26:01.26,Default,,0,0,0,,Vâng!{Yes, sir.}
 Dialogue: 0,0:26:01.44,0:26:02.89,Default,,0,0,0,,Ta chẳng nghe thấy gì cả!
 Dialogue: 0,0:26:02.90,0:26:03.55,Default,,0,0,0,,Vâng!{Yes, sir.}
 Dialogue: 0,0:26:03.57,0:26:05.29,Default,,0,0,0,,{Good.}Tốt, lặp lại 100 lần nào.
 Dialogue: 0,0:26:05.36,0:26:06.05,Default,,0,0,0,,Rõ!{Yes, sir.}
 Dialogue: 0,0:26:06.28,0:26:09.40,Default,,0,0,0,,Vâng!{Yes, sir!} Vâng! Vâng! Vâng! ...
-Dialogue: 0,0:26:11.88,0:26:14.85,Default,,0,0,0,,Shiroichi-san, cậu mạnh thật đấy.
+Dialogue: 0,0:26:11.88,0:26:14.85,Default,,0,0,0,,Shiroishi-san, cậu mạnh thật đấy.
 Dialogue: 0,0:26:14.85,0:26:17.55,Default,,0,0,0,,Làm gì có chuyện đó chứ. \NTôi chẳng có gì là mạnh cả.
 Dialogue: 0,0:26:17.58,0:26:21.24,Default,,0,0,0,,{Thai" kick was awesome. You lrlusf\Nbe somebody. Where did you Train?}Sau khi nhìn thấy cú đá đó, thì tôi biết ngay,\N là cậu không phải là dân nghiệp dư rồi.
 Dialogue: 0,0:26:21.24,0:26:23.53,Default,,0,0,0,,Nè, trước đây cậu tập được nó ở đâu thế.
@@ -370,16 +387,16 @@ Dialogue: 0,0:26:31.18,0:26:34.06,Default,,0,0,0,,mà đã hoàn toàn hạ \Nđ
 Dialogue: 0,0:26:34.11,0:26:35.95,Default,,0,0,0,,Không đời nào có chuyện đó đâu.
 Dialogue: 0,0:26:36.54,0:26:39.56,Default,,0,0,0,,{I'm nobody, really. I1" was all jusf luck.}Thành thật mà nói, \Ntôi chẳng mạnh hay gì cả đâu.
 Dialogue: 0,0:26:40.20,0:26:43.54,Default,,0,0,0,,{'Io beautiful, why don'? you phy with us?}Chị gái, có muốn đi chơi với bọn tôi chứ?
-Dialogue: 0,0:26:45.09,0:26:46.85,Default,,0,0,0,,Đi nào, Shiroichi-san.{Le1"s go, Shiroishi.}
+Dialogue: 0,0:26:45.09,0:26:46.85,Default,,0,0,0,,Đi nào, Shiroishi-san.{Le1"s go, Shiroishi.}
 Dialogue: 0,0:26:48.36,0:26:51.70,Default,,0,0,0,,Đừng lạnh nhạt vậy chứ!\N Đi chơi với bọn tôi đi mà!
-Dialogue: 0,0:26:51.71,0:26:53.09,Default,,0,0,0,,{I already have a man here}Bởi vì tôi là người đi cùng rồi.
+Dialogue: 0,0:26:51.71,0:26:53.09,Default,,0,0,0,,{I already have a man here}Tôi đã có người đi cùng rồi.
 Dialogue: 0,0:26:53.09,0:26:55.05,Default,,0,0,0,,Ể, đâu nào?
-Dialogue: 0,0:26:55.06,0:26:57.08,Default,,0,0,0,,{Where? I. don'? see any man here}Tôi có thấy người đó đâu đâu.
-Dialogue: 0,0:27:02.54,0:27:03.93,Default,,0,0,0,,Shiroichi-kun!
+Dialogue: 0,0:26:55.06,0:26:57.08,Default,,0,0,0,,{Where? I. don'? see any man here}Tôi có thấy người đó đâu.
+Dialogue: 0,0:27:02.54,0:27:03.93,Default,,0,0,0,,Shiroishi-san!
 Dialogue: 0,0:27:03.93,0:27:06.57,Default,,0,0,0,,Tôi chẳng nhìn thấy người đó đâu cả!{I don'? see anybody a1' all.}
 Dialogue: 0,0:27:06.58,0:27:11.70,Default,,0,0,0,,Đừng đi với thằng khốn hàng thải\N này chứ, đi chơi với bọn tôi đi mà.
 Dialogue: 0,0:27:12.68,0:27:15.49,Default,,0,0,0,,{C'mon. Come wifh us and have a fun, babe.}Có vẻ như cô thấy hứng thú với bọn tôi rồi nhỉ?{So, you made up your mind?}
-Dialogue: 0,0:27:16.13,0:27:19.70,Default,,0,0,0,,Thế cô muốn đi đâu nào, \Nkaraoke, hay là nhà nghỉ?
+Dialogue: 0,0:27:16.13,0:27:19.70,Default,,0,0,0,,Thế cô muốn đi đâu nào, \Nkaraoke, hay là khách sạn?
 Dialogue: 0,0:27:19.85,0:27:23.65,Default,,0,0,0,,Phải nhìn lũ như các người,\N khiến tôi muốn giết mấy người ghê.{You guys are pieces of shif. I\Njusf like 1'0 kill scum like you.}
 Dialogue: 0,0:27:24.52,0:27:27.30,Default,,0,0,0,,Bà chị này nói chuyện thú vị phết mày nhỉ?
 Dialogue: 0,0:27:27.42,0:27:29.70,Default,,0,0,0,,Nếu muốn giết thì giết bọn tôi xem nào!{In Thai" case, if you wan-I" 1'0\Nkill us, please kill us soffly.}
@@ -387,13 +404,13 @@ Dialogue: 0,0:27:29.70,0:27:34.00,Default,,0,0,0,,Đổi lại, hay cho bọn t�
 Dialogue: 0,0:28:11.98,0:28:15.63,Default,,0,0,0,,Không sao đâu! Tôi chỉ \Nlàm hắn ta ngất xỉu chút ấy mà.{Don'? worry, he's still alive.}
 Dialogue: 0,0:28:15.82,0:28:18.10,Default,,0,0,0,,{Don'? worry, he's still alive.}Nào! Tiếp theo là đến lượt cậu nhỉ?
 Dialogue: 0,0:28:22.02,0:28:23.84,Default,,0,0,0,,Midori-san mạnh thật đấy.
-Dialogue: 0,0:28:25.24,0:28:27.85,Default,,0,0,0,,{Thai" was incredible.}Đánh nhau làm tôi hứng tình cả lên.
+Dialogue: 0,0:28:25.24,0:28:27.85,Default,,0,0,0,,{Thai" was incredible.}Đánh nhau làm tôi nứng hết cả lên.
 Dialogue: 0,0:28:28.89,0:28:32.10,Default,,0,0,0,,{I gof a liffle bif excifed.}Xin lỗi! Tôi thành thực xin lỗi!
-Dialogue: 0,0:28:32.48,0:28:35.55,Default,,0,0,0,,{I'm sorry I couldn'? help you.}Nè Shiroichi-san, đi nhà nghỉ nào!
+Dialogue: 0,0:28:32.48,0:28:35.55,Default,,0,0,0,,{I'm sorry I couldn'? help you.}Nè Shiroishi-san, đi khách sạn nào!
 Dialogue: 0,0:28:35.55,0:28:36.33,Default,,0,0,0,,Hớ?
-Dialogue: 0,0:28:36.69,0:28:38.70,Default,,0,0,0,,Nhà nghỉ...
+Dialogue: 0,0:28:36.69,0:28:38.70,Default,,0,0,0,,Khách sạn...
 Dialogue: 0,0:28:39.26,0:28:41.21,Default,,0,0,0,,{Lei-'s go To a hofel.}...tình yêu ấy.
-Dialogue: 0,0:28:54.70,0:28:56.77,Default,,0,0,0,,{Shir-oishi, do you warrl" 1'0 come in foo?}Shiroichi-san cũng vào cùng chứ?
+Dialogue: 0,0:28:54.70,0:28:56.77,Default,,0,0,0,,{Shir-oishi, do you warrl" 1'0 come in foo?}Shiroishi-san cũng vào cùng chứ?
 Dialogue: 0,0:28:58.44,0:28:59.62,Default,,0,0,0,,{I Think I'll...}Đúng là tôi nên...
 Dialogue: 0,0:28:59.62,0:29:01.62,Default,,0,0,0,,Gì đấy? "Nên về" à?
 Dialogue: 0,0:29:01.62,0:29:02.73,Default,,0,0,0,,Xin lỗi.
@@ -401,9 +418,9 @@ Dialogue: 0,0:29:02.73,0:29:04.73,Default,,0,0,0,,Không được, tôi không c
 Dialogue: 0,0:29:04.73,0:29:06.73,Default,,0,0,0,,Cậu muốn tôi thấy nhục chắc?
 Dialogue: 0,0:29:07.06,0:29:08.56,Default,,0,0,0,,Tôi xin lỗi.
 Dialogue: 0,0:29:08.76,0:29:11.22,Default,,0,0,0,,Lúc tôi siết cổ tên đó...
-Dialogue: 0,0:29:11.22,0:29:13.37,Default,,0,0,0,,Shiroichi-san, con cu của cậu \Nđã cương cứng, đúng không?
+Dialogue: 0,0:29:11.22,0:29:13.37,Default,,0,0,0,,Shiroishi-san, con cu của cậu \Nđã cương cứng, đúng không?
 Dialogue: 0,0:29:13.37,0:29:14.00,Default,,0,0,0,,Ớ?!
-Dialogue: 0,0:29:14.01,0:29:16.88,Default,,0,0,0,,Shiroichi-san, không lẽ nào \Ncậu là một tên biến thái sao?
+Dialogue: 0,0:29:14.01,0:29:16.88,Default,,0,0,0,,Shiroishi-san, không lẽ nào \Ncậu là một tên biến thái sao?
 Dialogue: 0,0:29:16.90,0:29:19.37,Default,,0,0,0,,Tôi không phải loại người đó...
 Dialogue: 0,0:29:25.34,0:29:27.92,Default,,0,0,0,,Ngoài cậu ra thì không còn ai khác cả.
 Dialogue: 0,0:29:32.12,0:29:35.94,Default,,0,0,0,,Ngoài cậu ra thì không người đàn ông nào \Ncó thể trừng phạt tôi được cả.{You're The only one who\Ncan inflicf pain onfo me...}
@@ -411,7 +428,7 @@ Dialogue: 0,0:29:35.94,0:29:37.57,Default,,0,0,0,,Trừng... phạt...
 Dialogue: 0,0:29:37.58,0:29:39.89,Default,,0,0,0,,Đúng thế, trừng phạt.
 Dialogue: 0,0:29:39.90,0:29:43.50,Default,,0,0,0,,Cậu là người chỉ có thể cương cứng\N nhờ bạo lực, phải không?
 Dialogue: 0,0:29:43.50,0:29:45.92,Default,,0,0,0,,Không phải thế... tôi...
-Dialogue: 0,0:29:46.22,0:29:50.25,Default,,0,0,0,,Được mà, dù cậu có bạo lực với tôi đến cỡ nào đi nữa.
+Dialogue: 0,0:29:46.22,0:29:50.25,Default,,0,0,0,,Được mà, dù cậu có\Ndùng bạo lực với tôi đến cỡ nào đi nữa.
 Dialogue: 0,0:29:51.23,0:29:52.60,Default,,0,0,0,,Không phải thế...
 Dialogue: 0,0:29:52.89,0:29:55.97,Default,,0,0,0,,Tôi muốn được đau đớn, chỉ đau đớn \Nbình thường thôi thì sẽ không đủ đã.
 Dialogue: 0,0:29:55.98,0:29:59.78,Default,,0,0,0,,Tôi không thể chịu được việc \Nkhông bị bạo hành, hay đị đánh đập.
@@ -423,7 +440,7 @@ Dialogue: 0,0:30:10.36,0:30:12.28,Default,,0,0,0,,Thế này thì sao hả?
 Dialogue: 0,0:30:12.68,0:30:14.09,Default,,0,0,0,,Mạnh hơn nữa!
 Dialogue: 0,0:30:16.99,0:30:18.83,Default,,0,0,0,,Im đi!
 Dialogue: 0,0:30:24.38,0:30:26.58,Default,,0,0,0,,Xin... Tôi xin lỗi...
-Dialogue: 0,0:30:26.58,0:30:28.76,Default,,0,0,0,,Nữa... Tiếp nữa đi!
+Dialogue: 0,0:30:26.58,0:30:28.76,Default,,0,0,0,,Nữa... Nhiều hơn nữa!
 Dialogue: 0,0:30:32.52,0:30:34.50,Default,,0,0,0,,Đúng rồi, cứ như thế đi.
 Dialogue: 0,0:30:34.50,0:30:38.25,Default,,0,0,0,,Cậu không thể chịu được đúng không? \NViệc không thể trừng phạt ai đó ấy.
 Dialogue: 0,0:30:38.34,0:30:40.73,Default,,0,0,0,,Cậu đã luôn kháo khát nó đúng không?{You're yearning for if.}{dựa trên sub eng mà sub eng bị lệch time nên chịu chẳng biết câu này dịch đúng không}
@@ -434,11 +451,11 @@ Dialogue: 0,0:30:46.35,0:30:48.02,Default,,0,0,0,,Cậu đâu thể làm gì kh�
 Dialogue: 0,0:30:48.38,0:30:50.02,Default,,0,0,0,,Không phải mà!
 Dialogue: 0,0:30:50.30,0:30:53.17,Default,,0,0,0,,Không phải thế! Đồ ngu!
 Dialogue: 0,0:31:23.23,0:31:24.81,Default,,0,0,0,,Quả nhiên...
-Dialogue: 0,0:31:24.82,0:31:26.48,Default,,0,0,0,,không phải cậu là như vậy sao?
+Dialogue: 0,0:31:24.82,0:31:26.48,Default,,0,0,0,,...không phải cậu là như vậy sao?
 Dialogue: 0,0:31:27.62,0:31:30.75,Default,,0,0,0,,Dừng lại... Cậu làm cái gì đấy?
 Dialogue: 0,0:31:33.82,0:31:36.72,Default,,0,0,0,,Giết tôi đi. Khiến tôi ra đi.
 Dialogue: 0,0:31:38.40,0:31:42.14,Default,,0,0,0,,Cậu chỉ có thể cương cứng vì bạo lực, \Nđối phương thì lại không thể ra nếu không bị giết.
-Dialogue: 0,0:31:42.21,0:31:43.82,Default,,0,0,0,,Cậu là một thằng nghiện bạo lực!
+Dialogue: 0,0:31:42.21,0:31:43.82,Default,,0,0,0,,Cậu là một thằng nghiện bạo lực kia mà!
 Dialogue: 0,0:31:43.82,0:31:44.90,Default,,0,0,0,,Không phải...
 Dialogue: 0,0:31:45.57,0:31:46.85,Default,,0,0,0,,Tôi...
 Dialogue: 0,0:31:47.42,0:31:48.85,Default,,0,0,0,,...không phải là người như thế!
@@ -446,70 +463,116 @@ Dialogue: 0,0:32:00.68,0:32:02.94,Default,,0,0,0,,Có thật là có một con �
 Dialogue: 0,0:32:02.99,0:32:05.12,Default,,0,0,0,,Nếu Senpai không cẩn thận thì anh sẽ tiêu đấy.
 Dialogue: 0,0:32:05.13,0:32:07.02,Default,,0,0,0,,Mày nghĩ là mày đang nói thế \Ntrước mặt ai đấy hả?
 Dialogue: 0,0:32:07.02,0:32:07.99,Default,,0,0,0,,Em xin lỗi.
-Dialogue: 0,0:32:08.00,0:32:13.02,Default,,0,0,0,,Được đụ một con đàn bà mạnh mẽ như vậy\Ntrong khi đấm ả, chắc sướng phải biết nhỉ?{I be? i1"|| feel good 1'0 fuck her\Nwhile beefing fhe shif ouf of her.}
+Dialogue: 0,0:32:08.00,0:32:13.02,Default,,0,0,0,,Được đụ một con đàn bà mạnh mẽ như vậy\Ntrong khi đấm ả ra bã, chắc sướng phải biết nhỉ?{I be? i1"|| feel good 1'0 fuck her\Nwhile beefing fhe shif ouf of her.}
 Dialogue: 0,0:32:13.02,0:32:13.55,Default,,0,0,0,,Ê!
 Dialogue: 0,0:32:13.55,0:32:14.34,Default,,0,0,0,,Hở?
-Dialogue: 0,0:32:17.10,0:32:19.72,Default,,0,0,0,,No no
-Dialogue: 0,0:32:25.97,0:32:27.20,Default,,0,0,0,,{So where's the bitch?{
-Dialogue: 0,0:32:27.24,0:32:28.94,Default,,0,0,0,,I'll go ask him.
-Dialogue: 0,0:32:33.15,0:32:39.78,Default,,0,0,0,,{No No I'm not “k2 that{
-Dialogue: 0,0:32:39.82,0:32:45.02,Default,,0,0,0,,The hell is he saying?
-Dialogue: 0,0:32:45.06,0:32:52.93,Default,,0,0,0,,You're. right", he is!
-Dialogue: 0,0:32:52.97,0:32:55.83,Default,,0,0,0,,{Answer me before you 'the\Nshit kicked out of you!{
-Dialogue: 0,0:32:55.87,0:32:57.80,Default,,0,0,0,,You Two sf and aside.
-Dialogue: 0,0:32:59.14,0:33:05.34,Default,,0,0,0,,{Look, kid, where's The girl?{
-Dialogue: 0,0:33:05.38,0:33:11.28,Default,,0,0,0,,{Stop crying and answer ma!{
-Dialogue: 0,0:33:11.32,0:33:16.92,Default,,0,0,0,,Oh? Whaf did you saying?
-Dialogue: 0,0:33:16.96,0:33:18.95,Default,,0,0,0,,{T.' In not crying!{
-Dialogue: 0,0:33:23.00,0:33:27.99,Default,,0,0,0,,Vifhcrl". .. whorl" just" happened?
-Dialogue: 0,0:33:28.03,0:33:32.23,Default,,0,0,0,,Hey. .. whorl" are you\Nguys doing upside down?
-Dialogue: 0,0:33:44.25,0:33:46.05,Default,,0,0,0,,I'm no? crying
-Dialogue: 0,0:33:48.15,0:33:50.95,Default,,0,0,0,,{T.' In not crying!{
-Dialogue: 0,0:34:00.70,0:34:03.07,Default,,0,0,0,,Don'? come near me!
-Dialogue: 0,0:34:04.57,0:34:06.00,Default,,0,0,0,,{I{ said, sfay back!
-Dialogue: 0,0:34:07.41,0:34:10.07,Default,,0,0,0,,You fucker!
-Dialogue: 0,0:34:51.32,0:34:59.32,Default,,0,0,0,,This is number 3.
-Dialogue: 0,0:35:03.30,0:35:05.26,Default,,0,0,0,,{11' was just “k2 you said}
-Dialogue: 0,0:35:05.30,0:35:13.30,Default,,0,0,0,,There's 'three bodies her-e so\Nsend a clean-mp 'team her-e ASAP.
-Dialogue: 0,0:35:14.11,0:35:16.47,Default,,0,0,0,,601' i1'.
-Dialogue: 0,0:35:16.51,0:35:21.24,Default,,0,0,0,,Good work. I'll have 'the\Nmoney wired To you fomorrow.
-Dialogue: 0,0:35:24.35,0:35:29.69,Default,,0,0,0,,There's fhree bodies in fhe park\Nby The hofel disfricf in Ikebukuro.
-Dialogue: 0,0:35:29.72,0:35:32.32,Default,,0,0,0,,You can dump Them a1" The usual spof.
-Dialogue: 0,0:35:32.36,0:35:33.83,Default,,0,0,0,,I'll be counfing on you.
-Dialogue: 0,0:35:35.76,0:35:37.25,Default,,0,0,0,,{I{ did if!
-Dialogue: 0,0:35:37.30,0:35:38.82,Default,,0,0,0,,{I{ finally found him.
-Dialogue: 0,0:35:38.87,0:35:41.13,Default,,0,0,0,,{I{ knew Thai" my sense hadn'? dwindled.
-Dialogue: 0,0:35:41.17,0:35:44.43,Default,,0,0,0,,{I{ knew he was fhaf Type of kid\Nwhen {I{ firs? laid eyes on him.
-Dialogue: 0,0:35:44.77,0:35:49.17,Default,,0,0,0,,{I{ finally found someone\Nwho can fake you down
-Dialogue: 0,0:35:49.61,0:35:53.31,Default,,0,0,0,,{Nomfio take Ichi into custody..}
-Dialogue: 0,0:35:53.55,0:35:58.51,Default,,0,0,0,,Waif a minufe how am {I{\Nsupposed 1'0 acf in from" of him?
-Dialogue: 0,0:35:59.15,0:36:04.22,Default,,0,0,0,,"I'm here To fake care of you now Thai'\NKaname passed away." Yeah, 'rhai-'s if.
-Dialogue: 0,0:36:08.93,0:36:12.30,Default,,0,0,0,,I'I"s going 1'0921' infer-asking from now on.
-Dialogue: 0,0:36:23.58,0:36:25.64,Default,,0,0,0,,{T.' In not crying!{
-Dialogue: 0,0:36:40.93,0:36:43.62,Default,,0,0,0,,{He's the biggest pervert of them o“}
-Dialogue: 0,0:37:07.29,0:37:14.25,Default,,0,0,0,,Yeah, he mos? likely creafes Them\Non fhe spof and falls info fhem.
-Dialogue: 0,0:37:14.29,0:37:20.72,Default,,0,0,0,,I1" is in 'I'his s'I'a'I'e and his wish 1'0 sfay in\N'I'ha'I' s'I'a'I'e 'I'ha'I' causes him 'I-o kill people.
-Dialogue: 0,0:37:21.77,0:37:24.50,Default,,0,0,0,,He's a monsfer.
-Dialogue: 0,0:37:24.54,0:37:30.84,Default,,0,0,0,,{We“, They may be hulhlcimfions but they're sfi“\Npart of his past ... his Inemories, aren't they?{
-Dialogue: 0,0:37:30.88,0:37:38.81,Default,,0,0,0,,Who knows?
-Dialogue: 0,0:37:38.85,0:37:46.85,Default,,0,0,0,,I1" was 'true Thai" he was\Npicked on when he was li'I"I'le.
-Dialogue: 0,0:37:47.69,0:37:53.72,Default,,0,0,0,,I1" was 'true Thai' he lived in\Nconsfanf fear of his parenfs.
-Dialogue: 0,0:37:53.77,0:37:57.96,Default,,0,0,0,,{Than have about him kitting his\Nparents and his dussmafz?{
-Dialogue: 0,0:37:58.00,0:37:59.77,Default,,0,0,0,,Thai" was True. as well.
-Dialogue: 0,0:37:59.81,0:38:04.90,Default,,0,0,0,,Everyfhing he's experienced has\Nmade him info a violence addict
-Dialogue: 0,0:38:04.94,0:38:08.81,Default,,0,0,0,,His brain is wired differenfly\N'from yours and mine.
-Dialogue: 0,0:38:08.85,0:38:11.87,Default,,0,0,0,,{The perfecf killer {
-Dialogue: 0,0:38:15.45,0:38:19.55,Default,,0,0,0,,{I{ guess you can call Them picfures\Nif you wanf 1'0 keep Things simple.
-Dialogue: 0,0:38:19.59,0:38:27.59,Default,,0,0,0,,Of course, I doubt" he realizes\Nwhorl" 'they are hilnself.
-Dialogue: 0,0:38:33.17,0:38:37.94,Default,,0,0,0,,{Yeah, I'm going in sea if T.\Nwas right in picking him or not}
-Dialogue: 0,0:38:37.98,0:38:40.07,Default,,0,0,0,,Ichi file Killer.
-Dialogue: 0,0:38:40.11,0:38:42.29,Default,,0,0,0,,He's our perfect- killing machine.
+Dialogue: 0,0:32:14.34,0:32:17.18,Default,,0,0,0,,Không phải... Không phải vậy mà...
+Dialogue: 0,0:32:17.42,0:32:19.90,Default,,0,0,0,,Tôi... không phải là người như vậy mà...
+Dialogue: 0,0:32:19.92,0:32:22.75,Default,,0,0,0,,Đó là cái thằng đi chung với con ả hồi nãy.
+Dialogue: 0,0:32:22.92,0:32:24.42,Default,,0,0,0,,Vậy còn con ả kia đâu?
+Dialogue: 0,0:32:24.43,0:32:25.38,Default,,0,0,0,,Để em đi hỏi nói.
+Dialogue: 0,0:32:27.31,0:32:30.30,Default,,0,0,0,,Ê, con ả hồi nãy đi đâu rồi hả?
+Dialogue: 0,0:32:30.31,0:32:32.30,Default,,0,0,0,,Không phải, không phải vậy mà...
+Dialogue: 0,0:32:32.42,0:32:33.76,Default,,0,0,0,,Không phải đâu.
+Dialogue: 0,0:32:33.84,0:32:36.49,Default,,0,0,0,,Tôi không phải là người như vậy mà.
+Dialogue: 0,0:32:34.18,0:32:36.49,Default,,0,0,0,,{\an8}Có nghe không hả?\N Tao hỏi là con ả đó đâu rồi.
+Dialogue: 0,0:32:36.94,0:32:38.76,Default,,0,0,0,,Thằng này lảm nhảm cái mẹ gì thế?
+Dialogue: 0,0:32:38.82,0:32:40.60,Default,,0,0,0,,Có nghe tao nói không hả?
+Dialogue: 0,0:32:40.65,0:32:42.33,Default,,0,0,0,,Ơ? Nó khóc nè mày.
+Dialogue: 0,0:32:42.34,0:32:44.33,Default,,0,0,0,,Đúng là nó đang khóc thật này!
+Dialogue: 0,0:32:44.34,0:32:45.78,Default,,0,0,0,,Tởm quá!
+Dialogue: 0,0:32:45.79,0:32:48.44,Default,,0,0,0,,Tại sao mày lại khóc một mình ở đây hả?
+Dialogue: 0,0:32:48.50,0:32:51.79,Default,,0,0,0,,Con ả đó đâu rồi? Nếu mày mà không\N trả lời đàng hoàng là tao giết đấy!
+Dialogue: 0,0:32:52.58,0:32:54.43,Default,,0,0,0,,Tụi bây cút qua một bên đi!
+Dialogue: 0,0:32:56.25,0:32:58.17,Default,,0,0,0,,Con ả đó đâu rồi hả?{Look, kid, where's The girl?}
+Dialogue: 0,0:32:58.26,0:33:02.38,Default,,0,0,0,,Nếu tao không đụ con ả đó một phát\N thì cậu nhỏ của tao sẽ không thể yên được đâu!
+Dialogue: 0,0:33:02.46,0:33:05.09,Default,,0,0,0,,Nên mày có mau nín ngay\N rồi trả lời tao không hả?!{Stop crying and answer ma!}
+Dialogue: 0,0:33:05.47,0:33:07.92,Default,,0,0,0,,Tôi... đâu có khóc...
+Dialogue: 0,0:33:08.51,0:33:10.52,Default,,0,0,0,,Hở? Mày nói gì cơ?
+Dialogue: 0,0:33:10.52,0:33:12.74,Default,,0,0,0,,Tôi... không có khóc!
+Dialogue: 0,0:33:12.74,0:33:14.14,Default,,0,0,0,,Không phải mày đang khóc đó sao?
+Dialogue: 0,0:33:14.18,0:33:16.14,Default,,0,0,0,,Tôi có khóc đéo đâu!
+Dialogue: 0,0:33:20.01,0:33:21.66,Default,,0,0,0,,Chuyện quái gì vậy?
+Dialogue: 0,0:33:22.34,0:33:24.67,Default,,0,0,0,,Senpai, anh không sao chứ?
+Dialogue: 0,0:33:24.74,0:33:28.11,Default,,0,0,0,,Hơ, thế quái nào mà chúng mày\N lại lộn ngược thế kia vậy?
+Dialogue: 0,0:33:41.24,0:33:43.02,Default,,0,0,0,,Tôi đâu có khóc đâu mà.
+Dialogue: 0,0:33:45.22,0:33:47.57,Default,,0,0,0,,Tôi đâu có khóc đâu mà.
+Dialogue: 0,0:33:57.65,0:33:59.49,Default,,0,0,0,,Đừng có lại gần tao!
+Dialogue: 0,0:34:01.18,0:34:03.41,Default,,0,0,0,,Đã bảo là đừng có lại đây!
+Dialogue: 0,0:34:04.26,0:34:06.89,Default,,0,0,0,,Thắng khốn! Tao sẽ không tha cho mày đâu!
+Dialogue: 0,0:34:48.14,0:34:50.52,Default,,0,0,0,,Vâng, là Số 3 đây ạ!
+Dialogue: 0,0:34:51.12,0:34:52.89,Default,,0,0,0,,Vâng, cháu không sao cả.
+Dialogue: 0,0:34:52.94,0:34:56.41,Default,,0,0,0,,Dù đã xảy ra nhiều chuyện, nhưng rốt cuộc \N thì mọi thứ đều đã diễn ra tốt đẹp.
+Dialogue: 0,0:34:56.62,0:35:02.08,Default,,0,0,0,,Đối tượng Số 1, hay Sát thủ Số 1,\Nhắn là một gã còn trên cả kỳ vọng của bác đấy.
+Dialogue: 0,0:35:02.09,0:35:05.58,Default,,0,0,0,,Có ba cái xác ở đây, \Nnên hãy gọi đội dọn dẹp tới ngay đi.
+Dialogue: 0,0:35:05.79,0:35:07.08,Default,,0,0,0,,Vị trí là...
+Dialogue: 0,0:35:07.62,0:35:11.04,Default,,0,0,0,,Cái công viên Sumire cạnh \Ncái khách sạn ở quận Ikebukuro ấy hả?
+Dialogue: 0,0:35:11.05,0:35:13.08,Default,,0,0,0,,Biết rồi, tôi gửi họ tới liền đây.
+Dialogue: 0,0:35:13.42,0:35:15.04,Default,,0,0,0,,Hôm nay, cô làm việc tốt lắm.
+Dialogue: 0,0:35:15.15,0:35:18.09,Default,,0,0,0,,Tiền sẽ được chuyển tới\N tải khoản của cô vào ngày mai.
+Dialogue: 0,0:35:20.21,0:35:22.43,Default,,0,0,0,,Là tôi đây, ta có ba cái xác,
+Dialogue: 0,0:35:22.44,0:35:26.61,Default,,0,0,0,,mau tới công viên Sumire cạnh\N cái khách sạn ở quận Ikebukuro đi.
+Dialogue: 0,0:35:26.67,0:35:29.12,Default,,0,0,0,,Chỗ vứt thì cứ vứt ở chỗ cũ như mọi khi là được.
+Dialogue: 0,0:35:29.28,0:35:30.54,Default,,0,0,0,,Trong cậy và các cậu đấy.
+Dialogue: 0,0:35:31.92,0:35:33.77,Default,,0,0,0,,Hài... thành công rồi.
+Dialogue: 0,0:35:34.18,0:35:35.76,Default,,0,0,0,,Cuối cùng cũng tìm được nó.
+Dialogue: 0,0:35:35.77,0:35:40.25,Default,,0,0,0,,Mình đã không hề nhìn lầm, \Nquả nhiên nó đúng là kiểu người mà mình nghĩ.
+Dialogue: 0,0:35:41.50,0:35:45.88,Default,,0,0,0,,Cuối cùng thì tao cũng đã tìm được \Nkẻ có thể khử mày.
+Dialogue: 0,0:35:46.40,0:35:49.94,Default,,0,0,0,,Giờ thì... phải mau chóng\N đi hộ tống Ichi thôi nhỉ?
+Dialogue: 0,0:35:50.35,0:35:55.13,Default,,0,0,0,,Cơ mà khoan đã, trước đó thì mình nên\N xuất hiện trước mặt Ichi với cương vị nào đây nhỉ?
+Dialogue: 0,0:35:55.97,0:36:02.13,Default,,0,0,0,,"Ta sẽ chăm sóc cho cháu thay cho Tanabe-san,\N ông ấy có ghi đây này, nên nhất định sẽ ổn cả thôi."
+Dialogue: 0,0:36:05.80,0:36:08.61,Default,,0,0,0,,Từ giờ thì mọi chuyện sẽ trở nên thú vị lắm đây.
+Dialogue: 0,0:36:20.17,0:36:21.89,Default,,0,0,0,,Tôi không có khóc!
+Dialogue: 0,0:36:23.70,0:36:25.17,Default,,0,0,0,,Không có khóc!
+Dialogue: 0,0:36:27.58,0:36:29.08,Default,,0,0,0,,Tôi không có khóc!
+Dialogue: 0,0:36:37.68,0:36:39.69,Default,,0,0,0,,Đúng là biến thái vô đối nhỉ?
+Dialogue: 0,0:36:54.29,0:36:55.20,Default,,0,0,0,,Ơ...
+Dialogue: 0,0:37:02.35,0:37:03.84,Default,,0,0,0,,Ảo tưởng ư?
+Dialogue: 0,0:37:03.95,0:37:06.20,Default,,0,0,0,,Phải, e rằng...{Yeah, he mos? likely creafes Them\Non fhe spof and falls info fhem.}
+Dialogue: 0,0:37:06.21,0:37:09.55,Default,,0,0,0,,{Yeah, he mos? likely creafes Them\Non fhe spof and falls info fhem.}cậu ta có thể tạo ra ảo tưởng ngay tức khắc \Nvà chìm sâu vào chúng.
+Dialogue: 0,0:37:09.61,0:37:10.80,Default,,0,0,0,,{I1" is in 'I'his s'I'a'I'e and his wish 1'0 sfay in\N'I'ha'I' s'I'a'I'e 'I'ha'I' causes him 'I-o kill people.}Chìm vào ảo tưởng?
+Dialogue: 0,0:37:10.80,0:37:13.64,Default,,0,0,0,,Và ngay khi ảo tưởng được sinh ra, thì...
+Dialogue: 0,0:37:13.65,0:37:18.18,Default,,0,0,0,,ảo tưởng đó chính là hình ảnh phản chiếu\N của những người mà nó giết ở hiện thực.
+Dialogue: 0,0:37:18.45,0:37:20.68,Default,,0,0,0,,Nó đúng là một con quái vật thật sự.{He's a monsfer.}
+Dialogue: 0,0:37:20.89,0:37:25.23,Default,,0,0,0,,Nhưng dù có gọi chúng là ảo tưởng thì không phải chúng chính là quá khứ...
+Dialogue: 0,0:37:25.29,0:37:26.89,Default,,0,0,0,,...hay ký ức của cậu ta sao?{We“, They may be hulhlcimfions but they're sfi“\Npart of his past ... his Inemories, aren't they?}
+Dialogue: 0,0:37:27.22,0:37:28.75,Default,,0,0,0,,Cái đó thì ta chịu.
+Dialogue: 0,0:37:29.47,0:37:35.45,Default,,0,0,0,,Ảo tưởng của cậu ta chân thực\N đến cỡ nào so với ký ức của chính cậu ấy,
+Dialogue: 0,0:37:35.46,0:37:38.21,Default,,0,0,0,,cái đó thì khó mà xác định được.
+Dialogue: 0,0:37:38.22,0:37:40.36,Default,,0,0,0,,Nhưng sự thật là cậu ta đã bị bắt nạt.
+Dialogue: 0,0:37:40.40,0:37:44.11,Default,,0,0,0,,Tin đồn thất thiệt về việc\N nó bị phản bội cũng là sự thật.
+Dialogue: 0,0:37:44.20,0:37:50.02,Default,,0,0,0,,Việc cậu ta đã luôn sống trong\N sợ hãi khi ở nhà cũng là sự thật.
+Dialogue: 0,0:37:50.14,0:37:54.26,Default,,0,0,0,,{I1" was 'true Thai' he lived in\Nconsfanf fear of his parenfs.}Vậy chuyện cậu ấy giết\N bạn cùng lớp và cha mẹ của mình là...{Than have about him kitting his\Nparents and his dussmafz?}
+Dialogue: 0,0:37:54.27,0:37:56.21,Default,,0,0,0,,Việc đó cũng là sự thật.
+Dialogue: 0,0:37:56.28,0:38:01.55,Default,,0,0,0,,Cậu là là một kẻ nghiện bạo lực.
+Dialogue: 0,0:38:01.55,0:38:04.48,Default,,0,0,0,,Não của cậu ta hoạt động\Nthì khác so với não của cô và ta.
+Dialogue: 0,0:38:05.24,0:38:08.28,Default,,0,0,0,,Một sát thủ nguyên bản...
+Dialogue: 0,0:38:08.83,0:38:11.89,Default,,0,0,0,,Vậy thì những ảo tưởng mà cậu ta thấy là...
+Dialogue: 0,0:38:13.04,0:38:15.92,Default,,0,0,0,,{I guess you can call Them picfures\Nif you wanf 1'0 keep Things simple.}Nói đơn giản thì chúng chỉ là những hình ảnh.
+Dialogue: 0,0:38:15.92,0:38:19.82,Default,,0,0,0,,Tất nhiên là cậu ta không hề biết chúng là gì.{Of course, I doubt" he realizes\Nwhorl" 'they are hilnself.}
+Dialogue: 0,0:38:19.85,0:38:22.11,Default,,0,0,0,,Còn lại thì tuỳ vào cách mà cô muốn nghĩ.
+Dialogue: 0,0:38:22.20,0:38:28.00,Default,,0,0,0,,Gì chứ, cái đó chẳng có gì ghê gớm cả,\Nchỉ nắm được công tắc ảo tưởng của nó thôi là được.
+Dialogue: 0,0:38:28.00,0:38:29.61,Default,,0,0,0,,Vậy là ông sẽ thử cậu ta nhỉ?
+Dialogue: 0,0:38:29.66,0:38:30.74,Default,,0,0,0,,Ờ, ừm.
+Dialogue: 0,0:38:30.74,0:38:34.19,Default,,0,0,0,,Để xem ta có nhìn lầm không, thì ta sẽ thử cậu ta.
+Dialogue: 0,0:38:34.34,0:38:36.45,Default,,0,0,0,,{Yeah, I'm going in sea if T.\Nwas right in picking him or not}Sát thủ Số 1.
+Dialogue: 0,0:38:36.51,0:38:41.78,Default,,0,0,0,,{He's our perfect- killing machine.}Nó là thứ cần thiết cho kế hoạch\N của ta, một cổ máy giết người.
 Dialogue: 0,0:38:42.49,0:38:44.55,Default,,0,0,0,,{\fad(80,80)}Diễn viên
-Dialogue: 0,0:40:02.73,0:40:10.73,Default,,0,0,0,,Subfifled and Master-ed by\NCannibal King
-Dialogue: 0,0:44:50.92,0:44:55.48,Default,,0,0,0,,{Ichi, I. got a job for you}
-Dialogue: 0,0:44:55.52,0:45:03.52,Default,,0,0,0,,{'Ias. But he's not just anyone this time}
-Dialogue: 0,0:45:03.76,0:45:07.46,Default,,0,0,0,,{Vach, don'? you want revenge?{
-Dialogue: 0,0:45:08.77,0:45:11.24,Default,,0,0,0,,60 kill him, Ichi.
-Dialogue: 0,0:45:20.05,0:45:23.02,Default,,0,0,0,,Oh man, I'm bleeding!
-Dialogue: 0,0:45:31.82,0:45:33.88,Default,,0,0,0,,Kill him! 60 Ichi!
-Dialogue: 0,0:45:36.70,0:45:39.63,Default,,0,0,0,,How romanfic...
+Comment: 0,0:40:02.73,0:40:10.73,Default,,0,0,0,,Subfifled and Master-ed by\NCannibal King
+Dialogue: 0,0:44:45.21,0:44:46.73,Default,,0,0,0,,Bác?
+Dialogue: 0,0:44:46.73,0:44:48.62,Default,,0,0,0,,Ta có việc cho cháu đây, Ichi.
+Dialogue: 0,0:44:48.99,0:44:50.14,Default,,0,0,0,,Lại là giết người ạ?
+Dialogue: 0,0:44:50.14,0:44:51.30,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:44:51.30,0:44:54.53,Default,,0,0,0,,{Ichi, I. got a job for you}Nhưng mà lần này mục tiêu\N không phải là một kẻ tầm thường đâu.
+Dialogue: 0,0:44:54.72,0:44:57.62,Default,,0,0,0,,Hắn giống như là \Nmột kẻ bắt nạt xấu xa nhất vậy.
+Dialogue: 0,0:44:57.77,0:44:59.22,Default,,0,0,0,,Kẻ bắt nạt xấu xa nhất...
+Dialogue: 0,0:44:59.22,0:45:00.94,Default,,0,0,0,,Đúng vậy, Ichi.
+Dialogue: 0,0:45:00.94,0:45:03.64,Default,,0,0,0,,Cháu muốn mà đúng không, báo thù ấy?
+Dialogue: 0,0:45:04.46,0:45:07.17,Default,,0,0,0,,Ichi... đi giết hắn đi.
+Dialogue: 0,0:45:07.38,0:45:08.11,Default,,0,0,0,,Ừm.
+Dialogue: 0,0:45:14.72,0:45:15.82,Default,,0,0,0,,Khỉ thật!
+Dialogue: 0,0:45:15.87,0:45:19.45,Default,,0,0,0,,{Oh man, I'm bleeding!}Ôi trời, mình đang chảy máu ư?!
+Dialogue: 0,0:45:27.53,0:45:29.22,Default,,0,0,0,,{Kill him! 60 Ichi!}Tốt, giết hắn đi, Ichi!
+Dialogue: 0,0:45:32.34,0:45:35.90,Default,,0,0,0,,Thật lãng mạn làm sao...{How romanfic...}
+Dialogue: 0,0:45:32.53,0:45:36.57,Default,,0,0,0,,{\blur0.3\fad(500,500)\bord0\fs30\b0\pos(478.497,393.571)}Hideo Yamamoto/Shogakukan, Media Suit
+Comment: 0,0:45:36.70,0:45:39.63,Default,,0,0,0,,Vietsub bởi Ariztyn-Fansub
